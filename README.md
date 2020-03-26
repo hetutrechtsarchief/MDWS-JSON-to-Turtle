@@ -1,19 +1,3 @@
-# MDWS-JSON-to-Turtle
-Very early version of a NodeJS script to convert the output of [MDWS-to-JSON](https://github.com/hetutrechtsarchief/MDWS-to-JSON) to a RDF Turtle file.
+# Verplaatst naar Netwerk Digitaal Erfgoed
 
-## Prerequisites
-* NodeJS with NPM
-
-## Install
-```bash
-npm install
-```
-
-## Usage
-```bash
-./MDWS-JSON-to-Turtle.js data/1001.json > data/1001.ttl
-```
-
-## Demo
-* https://data.netwerkdigitaalerfgoed.nl/rick-companje/Experiment1
-* Example SPARQL queries: https://data.netwerkdigitaalerfgoed.nl/rick-companje/Experiment1/queries
+See https://github.com/netwerk-digitaal-erfgoed/MDWS-JSON-to-Turtle
